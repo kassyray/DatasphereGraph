@@ -1,0 +1,6 @@
+animals,time,tablename
+"Bovine animals, 1 to less than 2 years old","[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]",apro_mt_lscatl
+"Bovine animals, less than 1 year old","[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]",apro_mt_lscatl
+"Bovine animals, less than 1 year old, for slaughter","[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]",apro_mt_lscatl
+"Bovine animals, less than 1 year old, not for slaughter","[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]",apro_mt_lscatl
+Live bovine animals,"[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]",apro_mt_lscatl
