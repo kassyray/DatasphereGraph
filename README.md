@@ -27,10 +27,8 @@ Use the [tutorial available from Neo4j](https://neo4j.com/docs/aura/auradb/impor
 
 * Data was prepared using scripts in src/cleaningScripts
 * Prepared data was loaded in the graph using src/loadData
-* Raw data is available in data/rawData
+* Raw data and/or API calls are available in the folders that are named according to dataset 
 * Prepared data is availale in data/inputData
-* Example queries are available in src/exampleQueries
-* Example outputs to queries are available in data/exampleOutputs
 
 ## Contact
 
